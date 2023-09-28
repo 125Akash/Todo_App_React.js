@@ -25,7 +25,7 @@ To run this Todo app locally, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/todo-app-react.git
+   git clone https://github.com/125Akash/Todo_App_React.js.git
    ```
 
 2. Navigate to the project directory:
